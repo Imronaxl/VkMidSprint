@@ -1,4 +1,4 @@
-# KV gRPC Service (Tarantool 3.2)
+# KV gRPC Service
 ## Системные требования
 
 - Java 11+
