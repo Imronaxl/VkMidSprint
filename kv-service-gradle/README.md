@@ -24,8 +24,7 @@ cd kv-service-gradle
 ./gradlew run
 ```
 
-## API (в одном предложении)
-
+## API 
 - `Put(key, value)` сохраняет/обновляет
 - `Get(key)` возвращает `optional bytes`
 - `Delete(key)` удаляет
